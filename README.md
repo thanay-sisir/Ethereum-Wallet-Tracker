@@ -22,10 +22,6 @@ Key features analyzed include:
 
 Redundant API calls are minimized by setting appropriate `offset` and `page` parameters, optimizing data retrieval efficiency.
 
-## PROPOSED IMPLEMENTATION
-
-![image](https://github.com/your-username/EthereumTransactionAnalyzer/assets/proposed_implementation.png)
-
 **Instructions to Follow for Proposed Implementation:**
 
 - **API Configuration**: Securely store the `API_KEY` in an environment variable instead of hardcoding it in the script to enhance security.
